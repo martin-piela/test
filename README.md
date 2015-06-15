@@ -1,2 +1,4 @@
 Test pliku
-sads asd
+sads as
+asdasdasdasdTest pliku
+sadsasdasdas
